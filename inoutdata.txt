@@ -1,0 +1,18 @@
+  Department Name No.           Date/Time Location ID ID Number VerifyCode CardNo
+
+ OUR COMPANY    1   1 20/03/2019 15:25:22           5           Fingerpint       
+ OUR COMPANY    1   1 20/03/2019 17:12:36           5           Fingerpint       
+ OUR COMPANY    1   1 20/03/2019 17:12:49           5           Fingerpint       
+ OUR COMPANY    2   2 20/03/2019 17:17:30           5           Fingerpint       
+ OUR COMPANY    3   3 20/03/2019 17:18:11           5           Fingerpint       
+ OUR COMPANY    4   4 20/03/2019 17:12:42           5           Fingerpint       
+ OUR COMPANY    4   4 20/03/2019 17:12:55           5           Fingerpint       
+ OUR COMPANY    5   5 20/03/2019 15:21:16           5           Fingerpint       
+ OUR COMPANY    6   6 20/03/2019 15:25:13           5           Fingerpint       
+ OUR COMPANY    6   6 20/03/2019 17:12:39           5           Fingerpint       
+ OUR COMPANY    6   6 20/03/2019 17:12:52           5           Fingerpint       
+ OUR COMPANY    7   7 20/03/2019 15:28:18           5           Fingerpint       
+ OUR COMPANY    8   8 20/03/2019 15:28:21           5           Fingerpint       
+ OUR COMPANY    9   9 20/03/2019 15:28:24           5           Fingerpint       
+ OUR COMPANY   10  10 20/03/2019 15:28:27           5           Fingerpint       
+
